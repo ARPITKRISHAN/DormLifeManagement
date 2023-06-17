@@ -2,6 +2,18 @@
 
 DormLife is a hostel management app designed to streamline various aspects of hostel life, including mess menus, feedback, events, complaints, and council details. The app provides authentication and authorization features to ensure only authorized students can access the app's functionalities.
 
+## Installation
+
+To download the latest APK file, click the button below:
+
+[![Download APK](https://img.shields.io/badge/Download%20APK-Google%20Drive-blue)](https://drive.google.com/drive/folders/1qHXmuDDsw6B1uCXowzPSLIhyZ6aP02yX?usp=sharing)
+
+## ScreenShots
+
+<div style="display: flex; justify-content: center;">
+  <img src="Image1.jpeg" alt="Screenshot 1" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+</div>
+
 ## Features
 
 ### Mess Menu
@@ -55,16 +67,3 @@ DormLife is a hostel management app designed to streamline various aspects of ho
 - Frontend: Flutter
 - Backend: Laravel
 - Database: MYSQL
-
-## Installation
-
-To download the latest APK file, click the button below:
-
-[![Download APK](https://img.shields.io/badge/Download%20APK-Google%20Drive-blue)](https://drive.google.com/drive/folders/1qHXmuDDsw6B1uCXowzPSLIhyZ6aP02yX?usp=sharing)
-
-## ScreenShots
-
-<div style="display: flex; justify-content: center;">
-  <img src="Image1.jpeg" alt="Screenshot 1" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
-</div>
-

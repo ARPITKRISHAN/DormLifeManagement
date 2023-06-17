@@ -64,4 +64,7 @@ To download the latest APK file, click the button below:
 
 ## ScreenShots
 
-![Screenshot 1](Image1.jpeg)
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/screenshot1.png" alt="Screenshot 1" style="width: 400px; height: 300px; margin-right: 20px; margin-left: 20px;">  
+</div>
+

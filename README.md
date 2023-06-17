@@ -58,5 +58,10 @@ DormLife is a hostel management app designed to streamline various aspects of ho
 
 ## Installation
 
-[Provide instructions on how to install and set up the DormLife app.]
+## Download APK
+
+To download the latest APK file, click the button below:
+
+[![Download APK](https://img.shields.io/badge/Download%20APK-Google%20Drive-blue)](https://drive.google.com/your-drive-link)
+
 

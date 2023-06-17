@@ -12,6 +12,15 @@ To download the latest APK file, click the button below:
 
 <div style="display: flex; justify-content: center;">
   <img src="Image1.jpeg" alt="Screenshot 1" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image2.jpeg" alt="Screenshot 2" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image3.jpeg" alt="Screenshot 3" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image4.jpeg" alt="Screenshot 4" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image5.jpeg" alt="Screenshot 5" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image6.jpeg" alt="Screenshot 6" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image7.jpeg" alt="Screenshot 7" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image8.jpeg" alt="Screenshot 8" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image9.jpeg" alt="Screenshot 9" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">  
+  <img src="Image10.jpeg" alt="Screenshot 10" style="width: 300px; height: 600px; margin-right: 20px; margin-left: 20px;">    
 </div>
 
 ## Features
